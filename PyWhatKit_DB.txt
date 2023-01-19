@@ -1,0 +1,80 @@
+Date: 28/11/2022
+Time: 20:53
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:10
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:15
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:15
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:15
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:20
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:20
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:21
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:21
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:28
+Phone Number: +250783305114
+Message: Sup mn <br> Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 21:38
+Phone Number: +910123456789
+Message: Hi
+--------------------
+Date: 28/11/2022
+Time: 22:14
+Phone Number: +250783305114
+Message: Sup mn Am trying out this thing of pywhatkit
+--------------------
+Date: 28/11/2022
+Time: 22:16
+Phone Number: +250783305114
+Message: Hy
+--------------------
+Date: 28/11/2022
+Time: 22:16
+Phone Number: +250783305114
+Message: Hy
+--------------------
+Date: 1/12/2022
+Time: 6:44
+Phone Number: +250786344674
+Message: Climber id: *1* Time:*2022-12-01 06:44:36* HeartBeat:*73BPM* Temperature:*10.25Deg* Support Code:*Red*Location:https://www.google.com/maps/?q=-1.958026289547252,30.064340967771606
+--------------------
+Date: 1/12/2022
+Time: 6:50
+Phone Number: +250786344674
+Message: Climber id: *1* Time:*2022-12-01 06:50:01* HeartBeat:*73BPM* Temperature:*10.25Deg* Support Code:*Red*Location:https://www.google.com/maps/?q=-1.958026289547252,30.064340967771606
+--------------------
